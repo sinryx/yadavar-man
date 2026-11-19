@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:shortcutId="quick_chat" android:enabled="true" android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/sc_chat" android:shortcutLongLabel="@string/sc_chat">
+        <intent android:action="com.yadavar.man.QUICK" android:targetPackage="com.yadavar.man" android:targetClass="com.yadavar.man.QuickActivity" />
+    </shortcut>
+    <shortcut android:shortcutId="quick_mic" android:enabled="true" android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/sc_mic" android:shortcutLongLabel="@string/sc_mic">
+        <intent android:action="com.yadavar.man.QUICK_MIC" android:targetPackage="com.yadavar.man" android:targetClass="com.yadavar.man.QuickActivity">
+            <extra android:name="mic" android:value="true" />
+        </intent>
+    </shortcut>
+</shortcuts>

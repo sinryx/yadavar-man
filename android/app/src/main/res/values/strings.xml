@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">یادآور من</string>
+    <string name="title_activity_main">یادآور من</string>
+    <string name="package_name">com.yadavar.man</string>
+    <string name="custom_url_scheme">com.yadavar.man</string>
+    <string name="w_desc">چت سریع با دستیار</string>
+    <string name="w_label">دستیار یادآور</string>
+    <string name="sc_chat">دستیار</string>
+    <string name="sc_mic">بگو با صدا</string>
+</resources>

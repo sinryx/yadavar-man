@@ -1,0 +1,1 @@
+{"appId": "com.yadavar.man", "appName": "یادآور من", "webDir": "www", "android": {"backgroundColor": "#16616b"}, "plugins": {"LocalNotifications": {"smallIcon": "ic_stat_notify", "iconColor": "#16616b"}, "CapacitorHttp": {"enabled": false}}}
